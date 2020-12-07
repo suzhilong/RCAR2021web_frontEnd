@@ -4,7 +4,7 @@
         Program at a Glance
       </h1>
       <br>
-      <h3><strong>The way for live presentation:</strong></h3>
+      <!-- <h3><strong>The way for live presentation:</strong></h3>
       <h5>
       <p>The authors of the registered papers should make a live presentation in the time slot of the program. The authors can also choose to play the pre-recorded presentation video. The video files submitted to the conference site will be used as the backup. The duration of the presentation is 
         <font color="#FF0000">ten minutes</font>
@@ -33,7 +33,7 @@
         <font>
              <a href="http://www.ieee-rcar.com/uploads/IEEE_RCAR_2020_Technical_Sessions.pdf" target="_blank" style="background-color:transparent;color: rgb(250,0,0);">Click here to download the Detailed Technical Program in PDF</a>
         </font>
-      </h4>
+      </h4> -->
       
   </div>
 </template>
