@@ -20,7 +20,7 @@
         <p style="margin-left:50px">Lianqing Liu, CAS SIA, China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Organizing Co-Chairs:</h3>
         <p style="margin-left:50px">Can Wang, CAS SIAT, China</p>
-        <p style="margin-left:50px">Bing He, GDUT, China
+        <p style="margin-left:50px">Bin He, GDUT, China
         <p style="margin-left:50px">Honggui Han, BJUT, China</p>
         <p style="margin-left:50px">Yanzi Miao, CUMT, China</p>
         <p style="margin-left:50px">Dedong Gao, Qinghai Univ., China</p>
@@ -30,6 +30,7 @@
         <p style="margin-left:50px">Huihuan Qian, CUHK Shenzhen, China </p>
         <p style="margin-left:50px">Ning Sun, Nankai Univ., China </p>
         <p style="margin-left:50px">Yu Wang, CAS IA, China</p>
+        <p style="margin-left:50px">Fan zhang, Nor. Pol. Univ., China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Reginal Program Chairs:</h3>
         <p style="margin-left:50px">Shiwu Zhang, USTC, China</p>
         <p style="margin-left:50px">Dezhen Song, Texas A&M Univ., USA</p>
@@ -39,6 +40,7 @@
         <p style="margin-left:50px">Wanfeng Shang, CAS SIAT, China</p>
         <p style="margin-left:50px">Yajing Shen, CityU, Hongkong</p>
         <p style="margin-left:50px">Simon X. Yang, Guelph U. Canada</p>
+        <p style="margin-left:50px">Zhengxiong Liu,Nor. Pol. Univ., China</p>
         <p style="margin-left:50px">Yongsheng Ou, CAS SIAT, China</p>
         <p style="margin-left:50px">Rui Song, Shangdong Univ., China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Awards Committee Chairs:</h3>
@@ -52,6 +54,7 @@
         <p style="margin-left:50px">Zhidong Wang, Chi. I.T., Japan </p>
     <h3 style="margin-left:50px;margin-top:30px;">Publications Co-Chairs:</h3>
         <p style="margin-left:50px">Jiangfan Yu, CUHK Shenzhen, China </p>
+        <p style="margin-left:50px">Huayan Pu, shanghai Univ., China </p>
     <h3 style="margin-left:50px;margin-top:30px;">Local Arrangement Chairs:</h3>
         <p style="margin-left:50px">Guoyuan Liang, CAS SIAT, China</p>
         <p style="margin-left:50px">Bin Guo, Qinghai Univ., China</p>
