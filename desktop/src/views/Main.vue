@@ -5,9 +5,9 @@
         <Head />
       </router-link>
     </div>
-    <Navigator />
+    <Navigator class="Navi"/>
     <router-view/>
-    <div class="body-main">
+    <div class="body-main foot">
       <SchoolBadge />
     </div>
   </div>
@@ -28,5 +28,19 @@ export default {
 </script>
 
 <style>
-
+.Header{
+  margin: auto;
+  max-width: 1366px;
+  min-width: 1050px;
+}
+.Navi{
+  margin: auto;
+  max-width: 1366px;
+  min-width: 1050px;
+}
+.foot{
+  margin: auto;
+  max-width: 1366px;
+  min-width: 1050px;
+}
 </style>

@@ -1,26 +1,22 @@
 <template>
   <div>
-      <Carousel />
-      <!--
-      <div class>
-        <video
-          class="pt-4"
-          src="./../../../src/videos/video_01.mp4"
-          autoplay="none"
-          loop="loop"
-          controls="controls"
-          width="100%"
-        >请更新你的浏览器到最新版本</video>
-        <div
-          class="text-grey py-1 border-bottom"
-        >RCAR 2021 Welcome. Part of video comes from youtube . Thanks to the author.</div>
-      </div>-->
+    <Carousel class="home" />
+    <!--
+    <div class>
+      <video
+        class="pt-4"
+        src="./../../../src/videos/video_01.mp4"
+        autoplay="none"
+        loop="loop"
+        controls="controls"
+        width="100%"
+      >请更新你的浏览器到最新版本</video>
+      <div
+        class="text-grey py-1 border-bottom"
+      >RCAR 2021 Welcome. Part of video comes from youtube . Thanks to the author.</div>
+    </div>-->
       
-      <!-- <div class="msg text-red py-2 mx-13">
-        <Announcement />
-      </div> -->
-      <div class="body_container home bg-white border-body ">
-      
+    <div class="body_container home bg-white border-body ">
       <!-- <h4 class="pt-2 text-center text-red">
         Announcement of Registration
       </h4>
@@ -115,10 +111,12 @@ export default {
 <style>
 .home {
   max-width: 1366px;
+  min-width: 1050px;
   margin:auto;
 }
 .msg {
   max-width: 1200px;
+  min-width: 1050px;
   margin: auto;
 }
 

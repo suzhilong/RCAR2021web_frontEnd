@@ -1,7 +1,9 @@
 <template>
-  <div class="msg bg-white px-2" style="background-color:White;">
-    <h1 style="margin-left:50px;">Committee</h1>
-    <Committees />
+  <div class="home bg-white px-2" style="background-color:White;">
+    <div class="msg">
+      <h1 class="cmt-h1">Committee</h1>
+      <Committees/>
+    </div>
   </div>
 </template>
 
@@ -19,13 +21,10 @@ export default {
 </script>
 
 <style>
-.Committee {
-  max-width: 1366px;
-  margin:auto;
-}
-h1{
+.cmt-h1{
     color:rgb(28, 149, 206);
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
+    margin-left:50px;
 }
 </style>

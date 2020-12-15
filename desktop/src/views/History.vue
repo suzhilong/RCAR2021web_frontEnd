@@ -1,5 +1,5 @@
 <template>
-  <div class="body-main border-body">
+  <div class="body-main border-body home">
     <div v-for="(info,i) in history_info" :key="i">
       <b-card id :img-src="info.img" img-right>
         <b-card-text class="fw-xl fs-l">{{info.head}}</b-card-text>

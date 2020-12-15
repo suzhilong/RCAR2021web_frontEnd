@@ -1,5 +1,5 @@
 <template>
-  <div class="fs-xxl">
+  <div class="home">
     <h4 class="pt-2 text-center">
       Important Dates
       <i class="el-icon-date el-icon--right"></i>
@@ -9,14 +9,16 @@
         <div class="grid-content bg-purple"></div>
       </el-col>
     </el-row>
-    <div class="mx-5 text-center">
+    <div class="text-center table">
       <TimeTable />
     </div>
-    <div class="msg bg-white px-2" style="background-color:White;">
-        <h1 style="margin-left:20px;">Call For Papers</h1>
-        <Cfp />
-    </div>
 
+    <div class="home bg-white px-2">
+      <div class="msg">
+          <h1 style="margin-left:20px;">Call For Papers</h1>
+          <Cfp />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -37,8 +39,8 @@ export default {
 </script>
 
 <style>
-.Cfp {
-  max-width: 1366px;
+.table{
+  width: 800px;
   margin:auto;
 }
 </style>
