@@ -1,6 +1,5 @@
 <template>
   <div>
-    
       <Carousel />
       <!--
       <div class>
@@ -21,40 +20,46 @@
         <Announcement />
       </div> -->
       <div class="body_container home bg-white border-body ">
+      
       <!-- <h4 class="pt-2 text-center text-red">
         Announcement of Registration
       </h4>
       <div class="msg bg-white px-2">
         <Register_anmt/>
       </div> -->
+      
       <!-- <h4 class="pt-2 text-center text-red">
         New Announcement 
       <i class="el-icon --right"></i>
       </h4>
       <div class="msg bg-white px-2">
         <Download />
-      </div>
-      <h4 class="pt-2 text-center">
+      </div> -->
+      
+      <!-- <h4 class="pt-2 text-center">
         Annoucement of Conference Schedule 
       <i class="el-icon --right"></i>
       </h4>
       <div class="msg bg-white px-2">
         <CenferenceSchedule />
-      </div>
-      <h4 class="pt-2 text-center">
+      </div> -->
+      
+      <!-- <h4 class="pt-2 text-center">
         New Announcement
       <i class="el-icon --right"></i>
       </h4>
       <div class="msg bg-white px-2">
         <NewAnnouncement />
-      </div>
-      <h4 class="py-2 text-center ">
+      </div> -->
+      
+      <!-- <h4 class="py-2 text-center ">
         Important Announcement
         <i class="el-icon-warning el-icon--right"></i>
       </h4>
       <div class="msg bg-white px-2">
         <Announcement />
       </div> -->
+
       <!-- <h4 class="pt-2 text-center">
         Schedule
       <i class="el-icon--right"></i>
@@ -65,8 +70,9 @@
         </el-col>
       </el-row>
       <div class="mx-5 text-center">
-        <NewTimeTable />
+        <TimeTable />
       </div> -->
+      
       <h4 class="py-2 text-center border-top">
         Welcome Message
         <i class="el-icon-magic-stick el-icon--right"></i>
@@ -74,6 +80,7 @@
       <div class="msg bg-white px-2">
         <Body />
       </div>
+    
     </div>
   </div>
 </template>
@@ -83,7 +90,7 @@ import Vue from "vue";
 import Carousel from "./../components/Carousel.vue";
 import Body from "./../components/Body.vue";
 import NewAnnouncement from "./../components/NewAnnouncement.vue";
-import NewTimeTable from "./../components/NewTimeTable.vue";
+import TimeTable from "./../components/TimeTable.vue";
 import Announcement from "./../components/Announcement.vue";
 import Download from "./../components/Download.vue";
 import CenferenceSchedule from "./../components/ConferenceSchedule.vue"
@@ -95,12 +102,11 @@ export default {
   components: {
     Carousel,
     Body,
-    // TimeTable,
-    // Download,
-    // NewAnnouncement,
-    // NewTimeTable,
-    // Announcement,
-    // CenferenceSchedule,
+    TimeTable,
+    Download,
+    NewAnnouncement,
+    Announcement,
+    CenferenceSchedule,
     Register_anmt,
   },
 };

@@ -1,34 +1,20 @@
 <template>
   <div class="body-main">
-    <h1 align="center">Coming Soon...</h1>
-    <!-- <div class="server-articles">
-      <div class="px-3 bg-white fs-xxl" v-html="models[2].submenus[1].body"></div>
-    </div> -->
+    <div class="msg bg-white px-5">
+      <h1 align="center">Coming Soon...</h1>
+      <!-- 取消注释就可以用了 -->
+      <!-- <FinalBody /> -->
+    </div>
   </div>
 </template>
 
 <script>
+import FinalBody from "./../components/FinalBody.vue";
 export default {
-  props: {
-    title: {},
+  name: "FinalSub",
+  components: {
+    FinalBody,
   },
-  data() {
-    return {
-      models: {
-        submenus: {}
-      }
-    };
-  },
-  methods: {
-    async fetchArticles() {
-      const res = await this.$http.get("articles");
-      this.models = res.data;
-      console.log(this.models);
-    }
-  },
-  created() {
-    this.fetchArticles();
-  }
 };
 </script>
 

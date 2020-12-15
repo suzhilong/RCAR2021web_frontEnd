@@ -1,69 +1,70 @@
 <template>
   <div class="fs-xxl">
-    <h3 style="margin-left:50px;margin-top:30px;">Advisory Council:</h3>
-        <p style="margin-left:50px">Han Ding , HUST, China</p>
-        <p style="margin-left:50px">Yangsheng Xu, CUHK Shenzhen, China</p>
-        <p style="margin-left:50px">Yaonan Wang, Hunan Univ., China</p>
-        <p style="margin-left:50px">Guangqian Wang, Qinghai Univ., China</p>
-        <p style="margin-left:50px">Yunhui Liu, CUHK, Hongkong</p>
-        <p style="margin-left:50px">Jie Zhao, HIT, China</p>
-        <p style="margin-left:50px">Jiancheng Lv, CAS SIAT, China</p>
-        <p style="margin-left:50px">Guanglin Li, CAS SIAT, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">General Chair:</h3>
-        <p style="margin-left:50px">Xinyu Wu, CAS SIAT, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">General Co-Chairs:</h3>
-        <p style="margin-left:50px">Rong Xiong, Zhejiang Univ., China</p>
-        <p style="margin-left:50px">Wei Feng, CAS SIAT, China</p>
-        <p style="margin-left:50px">Panfeng Huang, Northwestern P. Univ.</p>
-        <p style="margin-left:50px">Xiaoping Ma, CUMT, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Organizing Chair:</h3>
-        <p style="margin-left:50px">Lianqing Liu, CAS SIA, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Organizing Co-Chairs:</h3>
-        <p style="margin-left:50px">Can Wang, CAS SIAT, China</p>
-        <p style="margin-left:50px">Bin He, GDUT, China
-        <p style="margin-left:50px">Honggui Han, BJUT, China</p>
-        <p style="margin-left:50px">Yanzi Miao, CUMT, China</p>
-        <p style="margin-left:50px">Dedong Gao, Qinghai Univ., China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Program Chair:</h3>
-        <p style="margin-left:50px">Tiantian Xu, CAS SIAT, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Program Co-Chairs:</h3>
-        <p style="margin-left:50px">Huihuan Qian, CUHK Shenzhen, China </p>
-        <p style="margin-left:50px">Ning Sun, Nankai Univ., China </p>
-        <p style="margin-left:50px">Yu Wang, CAS IA, China</p>
-        <p style="margin-left:50px">Fan zhang, Nor. Pol. Univ., China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Reginal Program Chairs:</h3>
-        <p style="margin-left:50px">Shiwu Zhang, USTC, China</p>
-        <p style="margin-left:50px">Dezhen Song, Texas A&M Univ., USA</p>
-        <p style="margin-left:50px">Chi Zhu,  Mae. I.T., Japan</p>
-        <p style="margin-left:50px">Xuesong Wang, CUMT, China</p>
-        <p style="margin-left:50px">Li Zhang, CUHK, Hongkong</p>
-        <p style="margin-left:50px">Wanfeng Shang, CAS SIAT, China</p>
-        <p style="margin-left:50px">Yajing Shen, CityU, Hongkong</p>
-        <p style="margin-left:50px">Simon X. Yang, Guelph U. Canada</p>
-        <p style="margin-left:50px">Zhengxiong Liu,Nor. Pol. Univ., China</p>
-        <p style="margin-left:50px">Yongsheng Ou, CAS SIAT, China</p>
-        <p style="margin-left:50px">Rui Song, Shangdong Univ., China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Awards Committee Chairs:</h3>
-        <p style="margin-left:50px">Dong Sun,  CityU, Hongkong</p>
-        <p style="margin-left:50px">Yongchun Fang, Nankai Univ., China</p>
-        <p style="margin-left:50px">Xin Xu, NUDT, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Publicity Chairs:</h3>
-        <p style="margin-left:50px">Wei Dai, CUMT, China</p>
-        <p style="margin-left:50px">Shibo Cai, ZJUT, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Publications Chair:</h3>
-        <p style="margin-left:50px">Zhidong Wang, Chi. I.T., Japan </p>
-    <h3 style="margin-left:50px;margin-top:30px;">Publications Co-Chairs:</h3>
-        <p style="margin-left:50px">Jiangfan Yu, CUHK Shenzhen, China </p>
-        <p style="margin-left:50px">Huayan Pu, shanghai Univ., China </p>
-    <h3 style="margin-left:50px;margin-top:30px;">Local Arrangement Chairs:</h3>
-        <p style="margin-left:50px">Guoyuan Liang, CAS SIAT, China</p>
-        <p style="margin-left:50px">Bin Guo, Qinghai Univ., China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Financial Chair:</h3>
-        <p style="margin-left:50px">Peng Li, HIT Shenzhen, China</p>
-    <h3 style="margin-left:50px;margin-top:30px;">Secretariat:</h3>
-        <p style="margin-left:50px">E-mail: ieee.rcar@gmail.com</p>
-        <p style="margin-left:50px">Chenyang Huang, CAS SIAT, China</p>
-        <p style="margin-left:50px">Zhilong Su, CAS SIAT, China</p>
+    <h3>Advisory Council:</h3>
+        <p>Han Ding , HUST, China</p>
+        <p>Yangsheng Xu, CUHK Shenzhen, China</p>
+        <p>Yaonan Wang, Hunan Univ., China</p>
+        <p>Guangqian Wang, Qinghai Univ., China</p>
+        <p>Yunhui Liu, CUHK, Hongkong</p>
+        <p>Jie Zhao, HIT, China</p>
+        <p>Jiancheng Lv, CAS SIAT, China</p>
+        <p>Guanglin Li, CAS SIAT, China</p>
+    <h3>General Chair:</h3>
+        <p>Xinyu Wu, CAS SIAT, China</p>
+    <h3>General Co-Chairs:</h3>
+        <p>Rong Xiong, Zhejiang Univ., China</p>
+        <p>Wei Feng, CAS SIAT, China</p>
+        <p>Panfeng Huang, Northwestern P. Univ.</p>
+        <p>Xiaoping Ma, CUMT, China</p>
+    <h3>Organizing Chair:</h3>
+        <p>Lianqing Liu, CAS SIA, China</p>
+    <h3>Organizing Co-Chairs:</h3>
+        <p>Can Wang, CAS SIAT, China</p>
+        <p>Bin He, GDUT, China
+        <p>Honggui Han, BJUT, China</p>
+        <p>Yanzi Miao, CUMT, China</p>
+        <p>Dedong Gao, Qinghai Univ., China</p>
+    <h3>Program Chair:</h3>
+        <p>Tiantian Xu, CAS SIAT, China</p>
+    <h3>Program Co-Chairs:</h3>
+        <p>Huihuan Qian, CUHK Shenzhen, China </p>
+        <p>Ning Sun, Nankai Univ., China </p>
+        <p>Yu Wang, CAS IA, China</p>
+        <p>Fan zhang, Nor. Pol. Univ., China</p>
+    <h3>Reginal Program Chairs:</h3>
+        <p>Shiwu Zhang, USTC, China</p>
+        <p>Dezhen Song, Texas A&M Univ., USA</p>
+        <p>Chi Zhu,  Mae. I.T., Japan</p>
+        <p>Xuesong Wang, CUMT, China</p>
+        <p>Li Zhang, CUHK, Hongkong</p>
+        <p>Wanfeng Shang, CAS SIAT, China</p>
+        <p>Yajing Shen, CityU, Hongkong</p>
+        <p>Simon X. Yang, Guelph U. Canada</p>
+        <p>Zhengxiong Liu,Nor. Pol. Univ., China</p>
+        <p>Yongsheng Ou, CAS SIAT, China</p>
+        <p>Rui Song, Shangdong Univ., China</p>
+    <h3>Awards Committee Chairs:</h3>
+        <p>Dong Sun,  CityU, Hongkong</p>
+        <p>Yongchun Fang, Nankai Univ., China</p>
+        <p>Xin Xu, NUDT, China</p>
+    <h3>Publicity Chairs:</h3>
+        <p>Wei Dai, CUMT, China</p>
+        <p>Shibo Cai, ZJUT, China</p>
+    <h3>Publications Chair:</h3>
+        <p>Zhidong Wang, Chi. I.T., Japan </p>
+    <h3>Publications Co-Chairs:</h3>
+        <p>Jiangfan Yu, CUHK Shenzhen, China </p>
+        <p>Huayan Pu, shanghai Univ., China </p>
+    <h3>Local Arrangement Chairs:</h3>
+        <p>Guoyuan Liang, CAS SIAT, China</p>
+        <p>Bin Guo, Qinghai Univ., China</p>
+    <h3>Financial Chair:</h3>
+        <p>Peng Li, HIT Shenzhen, China</p>
+    <h3>Secretariat:</h3>
+        <p>E-mail: ieee.rcar@gmail.com</p>
+        <p>Chenyang Huang, CAS SIAT, China</p>
+        <p>Zhilong Su, CAS SIAT, China</p>
+        <p>Shanxiu Zhang, CAS SIAT, China</p>
   </div>
 </template>
 
@@ -78,8 +79,11 @@ export default {};
 h3{
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
+    margin-left:50px;
+    margin-top:30px;
 }
 p{
     font-family:Arial, Helvetica, sans-serif;
+    margin-left: 50px;
 }
 </style>

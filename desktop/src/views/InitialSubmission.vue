@@ -1,34 +1,21 @@
 <template>
   <div class="body-main">
-    <h1 align="center">Coming Soon...</h1>
-    <!-- <div class="server-articles">
-      <div class="px-3 bg-white fs-xxl" v-html="models[2].submenus[0].body"></div>
-    </div> -->
+    <div class="msg bg-white px-5">
+      <h1 align="center">Coming Soon...</h1>
+      <!-- 取消注释就可以用了 -->
+      <!-- <InitialBody /> -->
+    </div>
   </div>
 </template>
 
+
 <script>
+import InitialBody from "./../components/InitialBody.vue";
 export default {
-  props: {
-    title: {},
+  name: "InitialSub",
+  components: {
+    InitialBody,
   },
-  data() {
-    return {
-      models: {
-        submenus: {}
-      }
-    };
-  },
-  methods: {
-    async fetchArticles() {
-      const res = await this.$http.get("articles");
-      this.models = res.data;
-      console.log(this.models);
-    }
-  },
-  created() {
-    this.fetchArticles();
-  }
 };
 </script>
 

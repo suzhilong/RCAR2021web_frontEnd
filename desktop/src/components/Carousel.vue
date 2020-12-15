@@ -6,7 +6,7 @@
       controls
       fade
       indicators
-      img-width="1280"
+      img-width="1080"
       img-height="720"
     >
       <div v-for="(img,i) in img_list" :key="i">
