@@ -1,6 +1,6 @@
 module.exports = {
-  outputDir: __dirname + '/../server/desktop',
+  outputDir: __dirname + '/dist',
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/'
+    ? './'
     : '/'
 }

@@ -4,8 +4,8 @@
       <a href="https://www.softconf.com/j/rcar2020">www.softconf.com/j/rcar2020</a>
        and complete your personal information in Revise Participant Registration.</p>
     <div class="text-right">
-       <pp>Program committee of RCAR 2020</pp>
-       <p>Sep. 20, 2020</p> 
+       <pp>Program committee of RCAR 2021</pp>
+       <p>July. 20, 2021</p> 
     </div>
   </div>
 </template>

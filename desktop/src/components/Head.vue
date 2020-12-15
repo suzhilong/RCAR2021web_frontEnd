@@ -19,7 +19,7 @@
 export default {
   data() {
     return {
-      logo: require("./../../../src/logo/logo-flex2.png")
+      logo: require("./../../../src/logo/rcar2021_logo.png")
     };
   }
 };

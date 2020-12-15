@@ -1,5 +1,6 @@
 <template>
   <div class="body-main">
+    <h1 align="center">Coming Soon...</h1>
     <!-- <div class="server-articles">
       <div class="px-3 bg-white fs-xxl" v-html="models[2].submenus[0].body"></div>
     </div> -->
