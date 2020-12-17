@@ -31,10 +31,14 @@
       <template slot="title">Call for Papers</template>
     </el-menu-item>
 
-    <el-submenu index="3">
-      <template slot="title">Submission</template>
-      <el-menu-item index="./InitialSubmission" disabled>Initial Submission</el-menu-item>
-      <el-menu-item index="./FinalSubmission" disabled>Final Submission</el-menu-item>
+    <el-menu-item index="./Venue">
+      <template slot="title">Venue</template>
+    </el-menu-item>
+
+    <el-submenu index="4">
+      <template slot="title">Travel</template>
+      <el-menu-item index="./AboutXining">About Xining</el-menu-item>
+      <el-menu-item index="./Transportation">Transportation</el-menu-item>
     </el-submenu>
 
     <el-menu-item index="./Registration" disabled>

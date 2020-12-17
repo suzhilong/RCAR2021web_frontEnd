@@ -82,5 +82,6 @@ export default {};
 .cmt-p{
     font-family:Arial, Helvetica, sans-serif;
     margin-left: 50px;
+    margin-right: 50px;
 }
 </style>

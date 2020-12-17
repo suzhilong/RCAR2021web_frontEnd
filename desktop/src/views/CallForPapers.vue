@@ -15,7 +15,7 @@
 
     <div class="home bg-white px-2">
       <div class="msg">
-          <h1 style="margin-left:20px;">Call For Papers</h1>
+          <h1 class="cmt-h1" style="margin-left:20px;">Call For Papers</h1>
           <Cfp />
       </div>
     </div>

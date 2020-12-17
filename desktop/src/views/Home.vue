@@ -110,14 +110,18 @@ export default {
 
 <style>
 .home {
-  max-width: 1366px;
-  min-width: 1050px;
+  width: 1288px;
+  /* max-width: 1366px;
+  min-width: 1050px; */
   margin:auto;
 }
 .msg {
-  max-width: 1200px;
-  min-width: 1050px;
+  /* width: 1288px; */
+  /* max-width: 1200px;
+  min-width: 1050px; */
   margin: auto;
+  /* margin-left:50px;
+  margin-right:50px; */
 }
 
 /* .el-header, .el-footer {

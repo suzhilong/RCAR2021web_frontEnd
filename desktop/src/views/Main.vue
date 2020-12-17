@@ -30,17 +30,20 @@ export default {
 <style>
 .Header{
   margin: auto;
-  max-width: 1366px;
-  min-width: 1050px;
+  /* max-width: 1366px;
+  min-width: 1050px; */
+  width: 1288px;
 }
 .Navi{
   margin: auto;
-  max-width: 1366px;
-  min-width: 1050px;
+  /* max-width: 1366px;
+  min-width: 1050px; */
+  width: 1288px;
 }
 .foot{
   margin: auto;
-  max-width: 1366px;
-  min-width: 1050px;
+  /* max-width: 1366px;
+  min-width: 1050px; */
+  width: 1288px;
 }
 </style>
