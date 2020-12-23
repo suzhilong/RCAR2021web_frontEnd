@@ -31,7 +31,7 @@
         <p class="cmt-p">Ning Sun, Nankai Univ., China </p>
         <p class="cmt-p">Yu Wang, CAS IA, China</p>
         <p class="cmt-p">Fan zhang, Nor. Pol. Univ., China</p>
-    <h3 class="cmt-h3">Reginal Program Chairs:</h3>
+    <h3 class="cmt-h3">Regional Program Chairs:</h3>
         <p class="cmt-p">Shiwu Zhang, USTC, China</p>
         <p class="cmt-p">Dezhen Song, Texas A&M Univ., USA</p>
         <p class="cmt-p">Chi Zhu,  Mae. I.T., Japan</p>
