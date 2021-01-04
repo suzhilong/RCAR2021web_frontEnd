@@ -43,6 +43,7 @@
         <p class="cmt-p">Zhengxiong Liu,Nor. Pol. Univ., China</p>
         <p class="cmt-p">Yongsheng Ou, CAS SIAT, China</p>
         <p class="cmt-p">Rui Song, Shangdong Univ., China</p>
+        <p class="cmt-p">Shukun Cao, UJN, China</p>
     <h3 class="cmt-h3">Awards Committee Chairs:</h3>
         <p class="cmt-p">Dong Sun,  CityU, Hongkong</p>
         <p class="cmt-p">Yongchun Fang, Nankai Univ., China</p>
@@ -53,8 +54,8 @@
     <h3 class="cmt-h3">Publications Chair:</h3>
         <p class="cmt-p">Zhidong Wang, Chi. I.T., Japan </p>
     <h3 class="cmt-h3">Publications Co-Chairs:</h3>
-        <p class="cmt-p">Jiangfan Yu, CUHK Shenzhen, China </p>
         <p class="cmt-p">Huayan Pu, shanghai Univ., China </p>
+        <p class="cmt-p">Jiangfan Yu, CUHK Shenzhen, China </p>
     <h3 class="cmt-h3">Local Arrangement Chairs:</h3>
         <p class="cmt-p">Guoyuan Liang, CAS SIAT, China</p>
         <p class="cmt-p">Bin Guo, Qinghai Univ., China</p>

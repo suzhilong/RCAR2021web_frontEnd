@@ -19,7 +19,8 @@ export default {
         require("./../../../src/icons/qh.jpg"),
         require("./../../../src/icons/05.png"),
         require("./../../../src/icons/06.png"),
-        require("./../../../src/icons/10.jpg")
+        require("./../../../src/icons/10.jpg"),
+        require("./../../../src/icons/jn.jpg")
       ]
     };
   }
