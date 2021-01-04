@@ -31,6 +31,13 @@
       <template slot="title">Call for Papers</template>
     </el-menu-item>
 
+    <!-- 把disabled删掉就可以激活 -->
+    <el-submenu index="3">
+      <template slot="title">Submission</template>
+      <el-menu-item index="./InitialSubmission">Initial Submission</el-menu-item>
+      <el-menu-item index="./FinalSubmission" disabled>Final Submission</el-menu-item>
+    </el-submenu>
+
     <el-menu-item index="./Venue">
       <template slot="title">Venue</template>
     </el-menu-item>
