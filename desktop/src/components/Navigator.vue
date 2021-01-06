@@ -35,7 +35,7 @@
     <el-submenu index="3">
       <template slot="title">Submission</template>
       <el-menu-item index="./InitialSubmission">Initial Submission</el-menu-item>
-      <el-menu-item index="./FinalSubmission" disabled>Final Submission</el-menu-item>
+      <el-menu-item index="./FinalSubmission">Final Submission</el-menu-item>
     </el-submenu>
 
     <el-menu-item index="./Venue">
