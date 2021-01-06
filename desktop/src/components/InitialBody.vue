@@ -3,8 +3,8 @@
     <h1>Initial Submission</h1>
     
     <h2>Introductions to prepare your manuscript</h2>
-    <!-- <p>All contributed papers should be submitted via the <a href="https://www.softconf.com/j/rcar2021/" >SoftConf</a>.</p> -->
-    <p>All contributed papers should be submitted via the <a href="" >(Coming Soon...)</a></p>
+    <p>All contributed papers should be submitted via the <a href="https://www.softconf.com/l/rcar2021/" >SoftConf</a>.</p>
+    <!-- <p>All contributed papers should be submitted via the <a href="" >(Coming Soon...)</a></p> -->
 
     <h2>Short Paper</h2>
     <div class="pl-7">
