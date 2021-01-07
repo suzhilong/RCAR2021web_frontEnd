@@ -1,7 +1,7 @@
 <template>
   <div class="fs-xxl">
     <h3 class="cmt-h3">Advisory Council:</h3>
-        <p class="cmt-p">Han Ding , HUST, China</p>
+        <p class="cmt-p">Han Ding, HUST, China</p>
         <p class="cmt-p">Yangsheng Xu, CUHK Shenzhen, China</p>
         <p class="cmt-p">Yaonan Wang, Hunan Univ., China</p>
         <p class="cmt-p">Guangqian Wang, Qinghai Univ., China</p>
@@ -16,6 +16,7 @@
         <p class="cmt-p">Wei Feng, CAS SIAT, China</p>
         <p class="cmt-p">Panfeng Huang, Northwestern P. Univ.</p>
         <p class="cmt-p">Xiaoping Ma, CUMT, China</p>
+        <p class="cmt-p">Weimin Li, CAS SDIAT, China</p>
     <h3 class="cmt-h3">Organizing Chair:</h3>
         <p class="cmt-p">Lianqing Liu, CAS SIA, China</p>
     <h3 class="cmt-h3">Organizing Co-Chairs:</h3>
