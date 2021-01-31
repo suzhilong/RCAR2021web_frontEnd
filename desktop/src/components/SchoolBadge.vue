@@ -16,6 +16,7 @@ export default {
         require("./../../../src/icons/01.png"),
         require("./../../../src/icons/02.png"),
         require("./../../../src/icons/03.png"),
+        require("./../../../src/icons/AIRS_logo.png"),
         require("./../../../src/icons/qh.jpg"),
         require("./../../../src/icons/05.png"),
         require("./../../../src/icons/06.png"),
