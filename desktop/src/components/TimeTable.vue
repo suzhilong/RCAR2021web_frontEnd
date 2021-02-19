@@ -71,15 +71,15 @@ export default {
     return {
       tableData: [
         {
-          date: "Feb.20,2021",
+          date: "Mar.31,2021",
           info: "Submission of full papers",
-          // old_date: "Mar.20,2020",          
+          old_date: "Feb.20,2021",          
           url: "./InitialSubmission"
         },
         {
-          date: "Feb.20,2021",
+          date: "Mar.31,2021",
           info: "Submission of organized session/workshop",
-          // old_date: "Mar.20,2020"        
+          old_date: "Feb.20,2021"        
         },
         {
           date: "Apr.20,2021",
