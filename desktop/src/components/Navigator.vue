@@ -21,10 +21,10 @@
     <!-- 把disabled删掉就可以激活 -->
     <el-submenu index="2">
       <template slot="title">Program</template>
-      <el-menu-item index="./Program" disabled>Program at a Glance</el-menu-item>
-      <el-menu-item index="./Plenary" disabled>Plenary Speakers</el-menu-item>
-      <el-menu-item index="./Keynote" disabled>Keynote Speakers</el-menu-item>
-      <el-menu-item index="./Technical" disabled>Technical Sessions</el-menu-item>
+      <el-menu-item index="./Program" >Program at a Glance</el-menu-item>
+      <el-menu-item index="./Plenary" >Plenary Speakers</el-menu-item>
+      <el-menu-item index="./Keynote" >Keynote Speakers</el-menu-item>
+      <el-menu-item index="./Technical" >Technical Sessions</el-menu-item>
     </el-submenu>
    
     <el-menu-item index="./CallForPapers">
@@ -48,7 +48,7 @@
       <el-menu-item index="./Transportation">Transportation</el-menu-item>
     </el-submenu>
 
-    <el-menu-item index="./Registration" disabled>
+    <el-menu-item index="./Registration">
       <template slot="title">Registration</template>
     </el-menu-item>
 

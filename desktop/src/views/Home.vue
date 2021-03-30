@@ -132,6 +132,7 @@ export default {
     width:80%;
   } */
 
+
 .el-main {
   text-align: justify;
 }

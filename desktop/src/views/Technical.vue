@@ -1,5 +1,5 @@
 <template>
-  <div class="body-main border-body bg-white ql-align-articles px-3">
+  <div class="home body-main border-body bg-white ql-align-articles px-3">
       <h1 span style="color:rgb(0,102,204)">
         Technical Sessions
       </h1>

@@ -14,8 +14,9 @@
       <p>6. For the final full paper submission, you are required to fill in the Title of Submission, List of Authors, complete the IEEE Copyright Transfer form, and upload the copyright file, final manuscript with IEEE PDF eXpress compliance test result and one-page digest slice. Please follow the instructions on the submission page and remember to click save button after finish all procedures to submit.
       <p>• <b>PDF Copy of IEEE Electronic Copyright:</b> For all the final full papers submitted to IEEE for inclusion in the Xplore database, the electronic IEEE Copyright Form (eCF) is required to transfer ownership rights of the intellectual property to IEEE. Please note: If you do not complete a publication agreement with IEEE by means of signing and submitting an IEEE Copyright Form, your paper cannot be published by IEEE.</p>
       <p>• <b>IEEE PDF eXpress Compliance Test:</b> For your paper to be included in IEEE RCAR 2021 Proceedings, its PDF file must be IEEE Xplore compliant. You should login to IEEE PDF eXpress using the conference ID, <b>coming soon...</b> , to check for this. After your paper passes the compliance test, a confirmation email will be sent to you. You must submit this email in PDF as one of the items of the final submission. <b>(PDF eXpress Compliance Test site for this conference will open on April 20th.)</b></p>
-      <p>• <b>One-page Digest Slice:</b> Upload one-page PowerPoint slide for RCAR 2021 Digest in .ppt format using this <a href="">template</a> .</p>
-</p>
+      <p>• <b>One-page Digest Slice:</b> Upload one-page PowerPoint slide for RCAR 2021 Digest in .ppt format. 
+      <!-- using this <a href="">template</a> . -->
+      </p>
     </div>
 
     <h2>Final Short Paper Submission Guideline</h2>

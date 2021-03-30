@@ -22,7 +22,7 @@ export default {
 
 <style>
 .cmt-h1{
-    color:rgb(28, 149, 206);
+    color:rgb(0,102,204);
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-left:50px;
