@@ -1,6 +1,7 @@
 <template>
   <div class="home border-body bg-white ql-align-articles px-3">
-    <!-- <h1 align="center">Coming Soon...</h1> -->
+    <h1 align="center">Coming Soon...</h1>
+    <!--
     <h1 span class = "cmt-h1">
       Registration
     </h1>
@@ -48,7 +49,8 @@
         <a href="mailto:ieee.rcar@gmail.com" rel="noopener noreferrer" target="_blank" style="background-color:transparent;color:rgb(51,122,183);">ieee.rcar@gmail.com.</a></li>
     </ul>
     </h5>
-    <br>
+    <br> 
+    -->
     <!-- 微信群 -->
     <!-- <h5 class = "regis">
       Join RCAR 2021 WeChat Group!

@@ -82,20 +82,20 @@ export default {
           old_date: "Feb.20,2021"        
         },
         {
-          date: "Apr.20,2021",
+          date: "Apr.30,2021",
           info: "Notification of acceptance",
-          // old_date: "Apr.20,2020"        
+          old_date: "Apr.20,2021"        
         },
         {
-          date: "May.1,2021",
+          date: "May.10,2021",
           info: "Final paper submission",
-          // old_date: "May.8,2020",          
+          old_date: "May.1,2021",          
           url: "./FinalSubmission"
         },
         {
-          date: "May.1,2021",
+          date: "May.10,2021",
           info: "Early bird registration",
-          // old_date: "May.31,2020",          
+          old_date: "May.1,2020",          
           url: "./Registration"
         }
       ]
