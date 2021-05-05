@@ -87,13 +87,13 @@ export default {
           old_date: "Apr.20,2021"        
         },
         {
-          date: "May.10,2021",
+          date: "May.20,2021",
           info: "Final paper submission",
           old_date: "May.1,2021",          
           url: "./FinalSubmission"
         },
         {
-          date: "May.10,2021",
+          date: "May.20,2021",
           info: "Early bird registration",
           old_date: "May.1,2020",          
           url: "./Registration"

@@ -15,7 +15,7 @@
         $100
         </strong>
           for all attendees. The fee include admission to final paper uploading, technical sessions, workshops and tutorials, the conference proceedings. </li>
-      <li>For one submission, it should be ensured that one of the authors can finish the registration as the presenter before the event. For other attendees except the presenter, it is 
+      <li>For one submission, it should be ensured that one of the authors can finish the registration as the presenter before the event. For other attendees except the presenter, it is 
         <strong>
         free
         </strong>
