@@ -26,7 +26,7 @@
       <p>• Page limit: For the first submission, a manuscript can be of 4-6 pages. For the final submission, a manuscript should be of 6 pages, with 2 additional pages allowed but at an extra charge.</p>
       <p>• PDF file: A manuscript file needs to be converted into its PDF version for submission. Please limit the size of the PDF file to be 5 M.</p>
     </div>
-    <h3>If you have any further questions, please don't hesitate to contact the conference secretaries by Email: ieee.rcar@gmail.com .</h3>
+    <h3>If you have any further questions, please don't hesitate to contact the conference secretaries by Email: ieee.rcar@gmail.com.</h3>
   </div>
 </template>
 

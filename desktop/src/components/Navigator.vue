@@ -38,11 +38,13 @@
       <el-menu-item index="./FinalSubmission">Final Submission</el-menu-item>
     </el-submenu>
 
-    <el-menu-item index="./Venue">
-      <template slot="title">Venue</template>
-    </el-menu-item>
-
     <el-submenu index="4">
+      <template slot="title">Venue</template>
+      <el-menu-item index="./Venue">Venues</el-menu-item>
+      <el-menu-item index="./Accommodation">Accommodation</el-menu-item>
+    </el-submenu>
+
+    <el-submenu index="5">
       <template slot="title">Travel</template>
       <el-menu-item index="./AboutXining">About Xining</el-menu-item>
       <el-menu-item index="./Transportation">Transportation</el-menu-item>

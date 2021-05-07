@@ -17,12 +17,12 @@ export default {}
 </script>
 
 <style>
-  .el-row {
+  /*.el-row {
     margin-bottom: 10px;
     &:last-child {
       margin-bottom: 0;
     }
-  }
+  }*/
   .images-mid{
     margin-left:50px;
     margin-right:50px;

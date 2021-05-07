@@ -101,6 +101,13 @@ const router = new Router({
             import(/* webpackChunkName: "about" */ "./views/Venue.vue"), props: true
         },
         {
+          path: "/Accommodation", // route level code-splitting
+          // this generates a separate chunk (about.[hash].js) for this route
+          // which is lazy-loaded when the route is visited.
+          component: () =>
+            import(/* webpackChunkName: "about" */ "./views/Accommodation.vue"), props: true
+        },
+        {
           path: "/AboutXining", // route level code-splitting
           // this generates a separate chunk (about.[hash].js) for this route
           // which is lazy-loaded when the route is visited.
