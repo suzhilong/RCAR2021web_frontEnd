@@ -88,6 +88,7 @@ export default {
         },
         {
           date: "May.20,2021",
+          test: "222",
           info: "Final paper submission",
           old_date: "May.1,2021",          
           url: "./FinalSubmission"

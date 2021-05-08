@@ -2,7 +2,7 @@
   <div class="fs-xxl msg">
     <h2 class="cmt-p">Qinghai Hotel</h2>
     <p class="cmt-p">Qinghai Hotel is located in the enjoyment of "China Xia Du" reputation of the provincial capital city of Xining, is located in the city center, adjacent to the characteristics of Xining Quyi Street unicorn, quiet, beautiful environment. The hotel is conveniently located 1km away from the central square, Wangfujing department store and Li Meng pedestrian business street. It is 5km away from the railway station and bus station; 28km away from the airport.</p>
-    <h3 class="cmt-p">• July is a high season in Xining, you are expected to book the QingHai hotel <span class="phead fw-xxl text-red">before May.20</span>. Make sure to read the reservation confirmation as follow.</h3>
+    <h3 class="cmt-p">• July is a busy season in Xining, you are expected to book the QingHai hotel <span class="phead fw-xxl text-red">before May.20</span>. Make sure to read the reservation confirmation as follow.</h3>
     <h3 class="cmt-p">• If you have any further questions, please don't hesitate to contact the conference secretaries by Email: ieee.rcar@gmail.com.</h3>
     <div class="images-mid comfirmation">
       <h4>
