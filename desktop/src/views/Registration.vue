@@ -68,7 +68,7 @@
     </h4> 
 
     <div class="table_regist home"> 
-      <table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" class="tabtop13" align="center">
+      <table width="60%" border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" class="tabtop13" align="center">
         <tr>
           <td width="25%" class="btbg font-center titfont">Category</td>
           <td width="25%" class="btbg font-center titfont">Till May. 20</td>
