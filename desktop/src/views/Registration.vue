@@ -70,18 +70,16 @@
     <div class="table_regist home"> 
       <table width="60%" border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" class="tabtop13" align="center">
         <tr>
-          <td width="25%" class="btbg font-center titfont">Category</td>
-          <td width="25%" class="btbg font-center titfont">Till May. 20</td>
-          <td width="25%" class="btbg font-center titfont">After May. 20</td>
-          <td width="25%" class="btbg font-center titfont">Social Functions</td>
-          <td width="25%" class="btbg font-center titfont">USB key</td>
-          <td width="25%" class="btbg font-center titfont">Uploads* </td>
+          <td width="20%" class="btbg font-center titfont">Category</td>
+          <td width="20%" class="btbg font-center titfont">Till May. 20</td>
+          <td width="20%" class="btbg font-center titfont">After May. 20</td>
+          <td width="20%" class="btbg font-center titfont">Social Functions</td>
+          <td width="20%" class="btbg font-center titfont">Uploads* </td>
         </tr>
         <tr>
           <td class="btbg2 font-center">IEEE Member</td>
           <td class="font-center">RMB 4000</td>
           <td class="font-center">RMB 5000</td>
-          <td class="font-center">Included</td>
           <td class="font-center">Included</td>
           <td class="font-center">Included</td>
         </tr>
@@ -91,13 +89,11 @@
           <td class="font-center">RMB 5500</td>
           <td class="font-center">Included</td>
           <td class="font-center">Included</td>
-          <td class="font-center">Included</td>
         </tr>
         <tr>
           <td class="btbg2 font-center">IEEE Student Member**</td>
           <td class="font-center">RMB 3300</td>
           <td class="font-center">RMB 4300</td>
-          <td class="font-center">Included</td>
           <td class="font-center">Included</td>
           <td class="font-center">Included</td>
         </tr>
@@ -107,7 +103,6 @@
           <td class="font-center">RMB 4800</td>
           <td class="font-center">Included</td>
           <td class="font-center">Included</td>
-          <td class="font-center">Included</td>
         </tr>
         <tr>
           <td class="btbg2 font-center">IEEE Life member***</td>
@@ -115,13 +110,12 @@
           <td class="font-center">RMB 0</td>
           <td class="font-center">Included</td>
           <td class="font-center">Included</td>
-          <td class="font-center">Included</td>
         </tr>
       </table>
     </div>
     
     <p class = "regis important">
-      *<b>IMPORTANT</b>: Advance registration is required in order to upload the final material of accepted contributions before May. 20, 2021. A regular conference registration can be used to upload at most 2 contributions. A student conference registration can be used to upload 1 contribution. A new registration is needed, if the upload limit is exceeded. Six pages in the standard IEEE conference paper format are allowed for each paper, including figures. A maximum of two additional pages are permitted at an extra charge of US$200/page.
+      *<b>IMPORTANT</b>: Advance registration is required in order to upload the final material of accepted contributions before May. 20, 2021. A regular conference registration can be used to upload at most 2 contributions. A student conference registration can be used to upload 1 contribution. A new registration is needed, if the upload limit is exceeded. Six pages in the standard IEEE conference paper format are allowed for each paper, including figures. A maximum of two additional pages are permitted at an extra charge of RMB 1200/page.
     </p>
     <p class = "regis important">
       **To complete a student registration, please send a copy of your valid student ID to ieee.rcar@gmail.com.
@@ -133,7 +127,7 @@
       <b>Cancellation Policy</b>
     </h4>
     <p class = "regis important">
-      In case of cancellation on or before May. 20, 2021, your registration fee will be refunded after deducting the cancellation fee (US$ 100). Please note all refunds will be made after the Conference. Note that on or after May. 20, 2021, <strong>your registration fee will NOT be refunded</strong>. In any cases, if your registration is used to upload your contribution (paper/video) for RCAR2021, your registration fee cannot be refunded.
+      In case of cancellation on or before May. 20, 2021, your registration fee will be refunded after deducting the cancellation fee (RMB 1000). Please note all refunds will be made after the Conference. Note that on or after May. 20, 2021, <strong>your registration fee will NOT be refunded</strong>. In any cases, if your registration is used to upload your contribution (paper/video) for RCAR2021, your registration fee cannot be refunded.
     </p>
     
   </div>
