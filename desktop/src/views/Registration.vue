@@ -63,7 +63,16 @@
     <h1 span class = "cmt-h1">
       Registration
     </h1>
-    <h4 class = "regisfee">
+
+    <h3 class = "regis" style = "margin-top: 30px">
+    Please click on the link below to redirect to the payment page:
+    </h3>
+    
+    <h3 class = "regis">
+    <a href="https://wj.qq.com/s2/8425152/d2b9/" style = "color: rgb(0,0,0)"> <b>Payment</b> </a>
+    </h3>
+
+    <h4 class = "regisfee important">
       Registration Fee
     </h4> 
 
