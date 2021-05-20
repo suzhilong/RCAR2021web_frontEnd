@@ -69,7 +69,8 @@
     </h3>
     
     <h3 class = "regis">
-    <a href="https://wj.qq.com/s2/8425152/d2b9/" style = "color: rgb(0,0,0)"> <b>Payment</b> </a>
+    <!-- <a href="https://wj.qq.com/s2/8425152/d2b9/" style = "color: rgb(0,0,0)"> <b>Payment</b> </a> -->
+    <a style = "color: rgb(0,0,0)"> <del><b>Payment</b></del> </a>
     </h3>
 
     <h4 class = "regisfee important">
