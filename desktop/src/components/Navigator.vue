@@ -27,24 +27,30 @@
       <el-menu-item index="./Technical" >Technical Sessions</el-menu-item>
     </el-submenu>
    
-    <el-menu-item index="./CallForPapers">
+    <!-- <el-menu-item index="./CallForPapers">
       <template slot="title">Call for Papers</template>
-    </el-menu-item>
+    </el-menu-item> -->
+
+    <el-submenu index="3">
+      <template slot="title">Call For</template>
+      <el-menu-item index="./CallForPapers" >Call For Papers</el-menu-item>
+      <el-menu-item index="./CallForSponsorExhibition" >Call For Sponsor/Exhibition</el-menu-item>
+    </el-submenu>
 
     <!-- 把disabled删掉就可以激活 -->
-    <el-submenu index="3">
+    <el-submenu index="4">
       <template slot="title">Submission</template>
       <el-menu-item index="./InitialSubmission">Initial Submission</el-menu-item>
       <el-menu-item index="./FinalSubmission">Final Submission</el-menu-item>
     </el-submenu>
 
-    <el-submenu index="4">
+    <el-submenu index="5">
       <template slot="title">Venue</template>
       <el-menu-item index="./Venue">Venues</el-menu-item>
       <el-menu-item index="./Accommodation">Accommodation</el-menu-item>
     </el-submenu>
 
-    <el-submenu index="5">
+    <el-submenu index="6">
       <template slot="title">Travel</template>
       <el-menu-item index="./AboutXining">About Xining</el-menu-item>
       <el-menu-item index="./Transportation">Transportation</el-menu-item>
@@ -54,6 +60,10 @@
       <template slot="title">Registration</template>
     </el-menu-item>
 
+    <!-- <el-menu-item index="./CallForSponsorExhibition">
+      <template slot="title">Call For Sponsor/Exhibition</template>
+    </el-menu-item> -->
+
     <el-menu-item index="./history">
       <template slot="title">History</template>
     </el-menu-item>
@@ -61,8 +71,7 @@
     <el-menu-item>
       <template slot="title">
         <p class="el-icon-question pt-2"></p>
-        <a>
-          <!-- href="https://github.com/leledeyuan00/rcar_wiki/wiki/FAQ"> -->
+        <a href="">
           FAQ
         </a>
       </template>
