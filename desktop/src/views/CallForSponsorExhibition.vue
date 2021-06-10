@@ -1,7 +1,7 @@
 <template>
   <div class="home bg-white px-2">
     <div class="msg">
-        <h1 class="cmt-h1" style="margin-left:20px;">Call For Sponsor/Exhibitio</h1>
+        <h1 class="cmt-h1" style="margin-left:20px;">Call For Sponsor/Exhibition</h1>
         <CfSE />
     </div>
   </div>

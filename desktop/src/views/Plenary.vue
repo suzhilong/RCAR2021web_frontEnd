@@ -79,7 +79,7 @@
     <!-- <img src="./../../../src/images/4fujun.png" width="175" height="222" /> -->
     <br />
     <h4>
-      <strong>Prof. </strong>
+      <strong>Prof. Hong Zhang, Southern University of Science and Technology, China</strong>
     </h4>
     <h4>
       <strong>Title: </strong>
@@ -129,22 +129,22 @@
         </strong>
     </h3>
     <br />
-    <!-- <img src="./../../../src/images/4fujun.png" width="175" height="222" /> -->
+    <img src="./../../../src/images/5zhongsheng.png" width="175" height="222" />
     <br />
     <h4>
-      <strong>Prof. </strong>
+      <strong>Prof. Zhongsheng Hou, Qingdao University, China.</strong>
     </h4>
     <h4>
-      <strong>Title: </strong>
+      <strong>Title: The Control Science under the Big Data/AI Age?</strong>
     </h4>
     <h5>
       <p style="text-align: justify">
         <strong>Abstract:</strong>
-        
+        Professor R. E. Kalman was the founder and visionary intellectual leader of the field of mathematical system theory. His contributions to optimal control, optimal estimation and filtering, realization theory, and mathematical system theory are at the foundations of these fields. They have significantly influenced much of the subsequent developments. Their influence transcends well beyond system and control into diverse fields of engineering, mathematics, physical sciences, social sciences, and others. However, there have been very significant developments in science, engineering, technology, and society in the last few decades. It is clear that change will accelerate further in the coming decades. Thus, thinking about the relevance and implications of the Kalman’s paradigm of the control theory under the big data or the AI age, that might illuminate the path of the system and control research for the future. This talk includes five parts. What is the Kalman’s Paradigm; The Challenges under the Kalman’s Paradigm the Problems We Face under the Big Data/AI Age; The Possible Solutions for the Post-Kalman Era _Taking MFAC as an example; and Conclusion.
       </p>
       <p style="text-align: justify">
         <strong>Biography:</strong>
-        
+        Zhongsheng Hou (SM’13, F’20) received the B.S. and M.S. degrees from Jilin University of Technology, Jilin, China, in 1983 and 1988, respectively, and the Ph.D. degree from Northeastern University, Shenyang, China, in 1994. From 1995 to 1997, he was a Postdoctoral Fellow with Harbin Institute of Technology, Harbin, China. From 2002 to 2003, he was a Visiting Scholar with Yale University, CT, USA. From 1997 to 2018, he was with Beijing Jiaotong University, Beijing, China, where he was a Distinguished Professor and the Founding Director of Advanced Control Systems Lab, and the Head of the Department of Automatic Control. He is currently a Chair Professor with the School of Automation, Qingdao University, Qingdao, China. His research interests are in the fields of data-driven control, model-free adaptive control, learning control, and intelligent transportation systems. Up to now, he has authored or co-authored more than 230 peer-reviewed journal papers and over 160 papers in prestigious conference proceedings. He has authored two monographs, Nonparametric Model and its Adaptive Control Theory, Science Press (in Chinese), 1999, and Model Free Adaptive Control: Theory and Applications, CRC Press, 2013. His pioneering work on model-free adaptive control has been verified in more than 200 different field applications, laboratory equipment and simulations with practical background, including wide-area power systems, lateral control of autonomous vehicles, temperature control of silicon rod. Prof. Hou is the Founding Director of the Technical Committee on Data Driven Control, Learning and Optimization (DDCLO), Chinese Association of Automation (CAA), and is a Fellow of CAA. He is also an International Federation of Automatic Control Technical Committee Member of both “Adaptive and Learning Systems” and “Transportation Systems.”  Dr. Hou was the Guest Editor for two Special Sections on the topic of data-driven control of the IEEE TRANSACTIONS ON NEURAL NETWORKS in 2011, and the IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS in 2017. 
       </p>
     </h5>
 
