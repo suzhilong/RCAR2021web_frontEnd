@@ -76,22 +76,22 @@
         </strong>
     </h3>
     <br />
-    <!-- <img src="./../../../src/images/4fujun.png" width="175" height="222" /> -->
+    <img src="./../../../src/images/3HongZhang.jpeg" width="175" height="222" />
     <br />
     <h4>
       <strong>Prof. Hong Zhang, Southern University of Science and Technology, China</strong>
     </h4>
     <h4>
-      <strong>Title: </strong>
+      <strong>Title: Dense Visual Mapping with a Polarization Camera</strong>
     </h4>
     <h5>
       <p style="text-align: justify">
         <strong>Abstract:</strong>
-        
+        Tremendous progress has been made in recent years in the research of visual SLAM, a problem in which a robot uses visual sensing to attempt to build a map of an unknown environment and localize itself in the environment at the same time. Nonetheless, one of the challenges that remain is how to build a dense visual map with rich depth information of the environment especially in areas or regions of poor texture. A map of this kind is critical for robot to be able to plan its path and avoid collision. In this talk, I will describe our research that addresses this challenge with the help of a polarization camera. Our solution is based on the observation that it is possible to estimate surface normal from polarization images without depending on local textures. Such surface normal information can then be combined with a sparse depth map from a typical visual SLAM algorithm to create a dense environment representation. Our method is real-time and provides an attractive vision-only alternative to other approaches to dense mapping.
       </p>
       <p style="text-align: justify">
         <strong>Biography:</strong>
-        
+        Professor Hong Zhang received his B.S. from Northeastern University (Boston) in 1982, and Ph.D. from Purdue University in 1986, both in Electrical Engineering. Subsequently he conducted research at the University of Pennsylvania as a post-doctoral fellow before he joined the Department of Computing Science at the University of Alberta, Canada in 1988 where he worked for over 30 years. Since October 2020, he has been a Chair Professor in the Department of Electronic and Electrical Engineering at the Southern University of Science and Technology (SUSTech) in Shenzhen, China. Professor Zhang’s research interests include robotics, computer vision, and image processing, with over 200 publications in these areas. For the past 15 years, he has expended considerable effort in the study of mobile robot navigation. Professor Zhang held a prestigious NSERC Industrial Research Chair from 2003 to 2017. He was the General Chair of 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), in Vancouver, Canada. He is currently serving a three-year term as the Editor-in-Chief of IROS Conference Editorial Board (2020-2022). In recognition of his research contributions and accomplishments, he is elected Fellow of the IEEE, and Fellow of the Canadian Academy of Engineering (CAE).
       </p>
     </h5>
 
