@@ -4,7 +4,7 @@
         Program at a Glance
       </h1>
       <br>
-      <h1 align="center">Coming Soon...</h1>
+      <!-- <h1 align="center">Coming Soon...</h1> -->
       <!-- <h3><strong>The way for live presentation:</strong></h3>
       <h5>
       <p>The authors of the registered papers should make a live presentation in the time slot of the program. The authors can also choose to play the pre-recorded presentation video. The video files submitted to the conference site will be used as the backup. The duration of the presentation is 
@@ -14,10 +14,11 @@
         . The presenters have to try to answer the questions from the audience.
         <a href="https://intl.cloud.tencent.com/product/tvm?lang=en&pg=" style="background-color:transparent;color: rgb(250,0,0);">Tecent VooV Meeting is needed, click here to download.</a></p>
       </h5>
-      <h3><strong>Notice: The time in the following table means time in GMT+8 （Beijing, HongKong Time Zone）</strong></h3>
-      <h5><p></p></h5>
-      <img src="./../../../src/images/Program.png" class="card-im-left" width="100%">
-      <h4>
+      <h3><strong>Notice: The time in the following table means time in GMT+8 （Beijing, HongKong Time Zone）</strong></h3> -->
+      <div class="glance">
+      <img src="./../../../src/images/atGlance.png" width="90%">
+      </div>
+      <!-- <h4>
         <font>
              <a href="http://www.ieee-rcar.com/uploads/IEEE_RCAR_2020_Detailed_Technical_Program.pdf" target="_blank" style="background-color:transparent;color: rgb(250,0,0);">Click here to download the Program in PDF</a>
         </font>
@@ -60,6 +61,10 @@ export default {
 .msg {
   max-width: 1200px;
   margin: auto;
+}
+
+.glance{
+  margin-left: 10%;
 }
 
 /* .el-header, .el-footer {
