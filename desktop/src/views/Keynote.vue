@@ -11,13 +11,13 @@
           </strong>
       </h3>
       <br>
-      <!-- <img src="./../../../src/images/XiangpengLi.png" class="card-im-left" width="175" height="222"> -->
+      <img src="./../../../src/images/1keynote.jpeg" class="card-im-left" width="175" height="222">
       <br>
       <h4>
         <strong> Prof. </strong>
       </h4>
       <h4>
-        <strong>Title: </strong>
+        <strong>Title: Robotic System for Percutaneous Procedures: Key Technologies, Applications, and Challenges</strong>
       </h4>
       <h5>
       <p style="text-align:justify">
