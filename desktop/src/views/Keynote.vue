@@ -1,5 +1,6 @@
 <template>
   <div class="home body-main border-body bg-white ql-align-articles px-3">
+      <div style="margin-left: 50px;margin-right: 50px">
       <h1 span style="color:rgb(0,102,204)">
         Keynote Speakers
       </h1>
@@ -14,7 +15,7 @@
       <img src="./../../../src/images/1keynote.jpeg" class="card-im-left" width="175" height="222">
       <br>
       <h4>
-        <strong> Prof. </strong>
+        <strong> Prof. Xingguang Duan, Beijing Institute of technology, China</strong>
       </h4>
       <h4>
         <strong>Title: Robotic System for Percutaneous Procedures: Key Technologies, Applications, and Challenges</strong>
@@ -22,12 +23,12 @@
       <h5>
       <p style="text-align:justify">
         <strong>Abstract:</strong>
-        
+        Surgical robot is a modern medical research topic which integrates medicine, biomechanics, computer vision, artificial intelligence, et al. Robot-assisted percutaneous puncture technology not only has important theoretical significance, but also can effectively improve the accuracy and quality of surgical operations in clinic. Problems in traditional operations such as long operation time, fatigue of doctors, lack of visual navigation, exposure to radiation are overcome. The report focuses on robotic systems for percutaneous procedures. Key technologies including sensing, navigation, and control are analyzed. System applications for craniomaxillofacial and lung puncture are specially introduced. Challenging issues and future trends are elaborated.
       </p>
       <p style="text-align:justify">
         <strong>Biography:</strong>
-        
-        </p>
+        Xingguang Duan is currently a professor at School of Mechatronical Engineering, Beijing Institute of technology. He is the deputy director of the Key Laboratory of Biomimetic Robots and Systems, and also a PI of Beijing Advanced Innovation Center for Intelligent Robots and Systems, and Institute of Engineering Medicine. Prof. Duan is the expert member for key special project on intelligent robot of the Ministry of Science and Technology (MOST), and the expert in compiling guidelines of the special project on major scientific instruments of the MOST. He is also the Leading talent for Taishan industry, and membership of multiple academic organizations. His research interests include design of the surgical robot system, robotic perception and understanding of environment, navigation and planning of robotics, human-robot cooperative intelligent control, etc. He has over 20 projects supported by the National Natural Science Foundation, the National High Technology Research and Development Program, the state support program, etc. He has published more than 80 academic papers and authorized 40 patents. He has won the Science and Technology Progress Award of Machinery Industry, National Defense Science and Technology Award, etc.
+      </p>
       </h5>
 
       <br>
@@ -107,6 +108,7 @@
         Mingming Zhang, IEEE Senior Member, Principal Investigator of Brain-Robot Rehabilitation Technology Lab, Department of Biomedical Engineering, Southern University of Science and Technology (Shenzhen, China). His main research interests include tactile sensing and feedback technology, intelligent control and human-computer interaction, wearable exoskeleton rehabilitation robots, and EMG/EEG based pattern recognition algorithms. He received the Ph.D. degree in Mechanical Engineering from the University of Auckland, New Zealand, in 2015. From 2015 to 2016, he worked as a postdoc research fellow in the Department of Mechanical Engineering at the University of Auckland. From early 2017 to 2018, he worked at CASTIOT LIMITED (Auckland) as a vice president in developing lower limb rehabilitation robotics. He was also employed as a visiting research fellow at the University of Auckland. He has authored over 50 academic papers published on peer-reviewed international journals in the fields of robotics, intelligent control, neural rehabilitation, and biomechanics, including IEEE Transactions on Industrial Electronics, IEEE Transactions on Biomedical Engineering, Journal of NeuroEngineering and Rehabilitation, Journal of Biomechanics, etc. Over 30 patents have been applied or authorized as well. He also authored an academic book published by Institution of Engineering and Technology.
         </p>
       </h5>
+      </div>
   </div>
 </template>
 
