@@ -29,7 +29,7 @@
     </div>
 
     <h3 class="cmt-p margintp"><span class="phead fw-xxl text-red">Contacts: 李保霞经理,13897634102,18697162955</span>.</h3>
-    <h3 class="cmt-p">You can mention rcar2020 when booking a hotel</h3>
+    <h3 class="cmt-p">You can mention rcar2021 when booking a hotel</h3>
     <h3 class="cmt-p tips">ps. book as soon as possible in case of price increase</h3>
   </div>
 </template>

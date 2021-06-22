@@ -4,15 +4,16 @@
         Technical Sessions
       </h1>
       <br>
-      <h1 align="center">Coming Soon...</h1>
+      <!-- <h1 align="center">Coming Soon...</h1> -->
       <!-- <h4>
         <font>
              <a href="http://www.ieee-rcar.com/uploads/IEEE_RCAR_2020_Technical_Session.pdf" target="_blank" style="background-color:transparent;color: rgb(250,0,0);">Click here to download the detailed program of Technical Session in PDF</a>
         </font>
-      </h4>
-      <img src="./../../../src/images/Schdule28.png" class="card-im-left" width="100%">
-      <img src="./../../../src/images/Schdule29.png" class="card-im-left" width="100%">
-       -->
+      </h4> -->
+      
+      <img src="./../../../src/images/TechnicalSessions.png" class="card-im-left" width="100%">
+
+      
   </div>
 </template>
 
