@@ -16,7 +16,11 @@
       </h5>
       <h3><strong>Notice: The time in the following table means time in GMT+8 （Beijing, HongKong Time Zone）</strong></h3> -->
       <div class="glance">
-      <img src="./../../../src/images/atGlance.png" width="90%">
+      <!-- <img src="./../../../src/images/atGlance.png" width="90%"> -->
+      <img src="./../../../src/images/atGlance_14_15.png" width="80%">
+      <img src="./../../../src/images/atGlance_16.png" width="80%">
+      <img src="./../../../src/images/atGlance_17_18.png" width="80%">
+      <img src="./../../../src/images/atGlance_19.png" width="80%">
       </div>
       <!-- <h4>
         <font>
