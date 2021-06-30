@@ -15,7 +15,7 @@
       <img src="./../../../src/images/4MingmingZhang.png" class="card-im-left" width="175" height="222">
       <br>
       <h4>
-        <strong> Prof. Mingming Zhang, Southern University of Science and Technology, China</strong>
+        <strong> Dr. Mingming Zhang, Southern University of Science and Technology, China</strong>
       </h4>
       <h4>
         <strong>Title: Task-oriented rehabilitation techniques with robot-assisted information feedback</strong>
@@ -67,7 +67,7 @@
       <img src="./../../../src/images/3HuihuanQian.png" class="card-im-left" width="175" height="222">
       <br>
       <h4>
-        <strong> Prof. Huihuan Qian, Chinese University of Hong Kong, China</strong>
+        <strong> Dr. Huihuan Qian, Chinese University of Hong Kong, China</strong>
       </h4>
       <h4>
         <strong>Title: Intelligent Sailing Robots Towards Marine Surface Exploration</strong>
