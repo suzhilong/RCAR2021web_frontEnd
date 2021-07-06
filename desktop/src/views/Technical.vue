@@ -10,10 +10,13 @@
              <a href="http://www.ieee-rcar.com/uploads/IEEE_RCAR_2020_Technical_Session.pdf" target="_blank" style="background-color:transparent;color: rgb(250,0,0);">Click here to download the detailed program of Technical Session in PDF</a>
         </font>
       </h4> -->
-      
-      <img src="./../../../src/images/TechnicalSessions.png" class="card-im-left" width="100%">
-
-      
+      <div class="glance">
+      <!-- <img src="./../../../src/images/TechnicalSessions.png" class="card-im-left" width="100%"> -->
+      <img src="./../../../src/images/session15.png" width="80%">
+      <img src="./../../../src/images/session16.png" width="80%">
+      <img src="./../../../src/images/session17.png" width="80%">
+      <img src="./../../../src/images/session18_19.png" width="80%">
+      </div>
   </div>
 </template>
 
@@ -37,7 +40,9 @@ export default {
   max-width: 1200px;
   margin: auto;
 }
-
+.glance{
+  margin-left: 10%;
+}
 /* .el-header, .el-footer {
     background-color: #B3C0D1;
     color: #333;
