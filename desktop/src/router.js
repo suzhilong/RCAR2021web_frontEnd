@@ -4,7 +4,7 @@ import Main from "./views/Main.vue";
 Vue.use(Router);
 
 const router = new Router({
-  mode: 'hash',
+  mode: 'history',
   routes: [
     {
       path: "/",
