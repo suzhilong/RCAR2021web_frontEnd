@@ -25,6 +25,7 @@
       <el-menu-item index="./Plenary" >Plenary Speakers</el-menu-item>
       <el-menu-item index="./Keynote" >Keynote Speakers</el-menu-item>
       <el-menu-item index="./Technical" >Technical Sessions</el-menu-item>
+      <el-menu-item index="./Proceedings" >Proceedings</el-menu-item>
     </el-submenu>
    
     <!-- <el-menu-item index="./CallForPapers">
