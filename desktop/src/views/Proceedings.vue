@@ -12,10 +12,10 @@
       </h4> -->
       <div class="proceedings">
       <!-- <img src="./../../../src/images/TechnicalSessions.png" class="card-im-left" width="100%"> -->
-      <a href="https://pan.baidu.com/s/1RgsrEbJOP3_wajxJk_Ss7w" style = "color: rgb(0,102,204) "><u>rcar2021 file</u></a>
+      <a href="https://pan.baidu.com/s/1D92clMuhtloF1ZHVpoHGJw" style = "color: rgb(0,102,204) "><u>rcar2021 file</u></a>
       </div>
       <div class="tiqu">
-      <p>提取码：mvn1 （压缩包解密密码请看官方群通知）</p>
+      <p>提取码：lrC5 （压缩包解密密码请看官方群通知）</p>
       </div>
   </div>
 </template>
